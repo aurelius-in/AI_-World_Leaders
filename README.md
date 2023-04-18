@@ -1,4 +1,4 @@
-# Research Proposal: Developing an AI to Predict and Control the Movements of World Leaders
+# Developing AI to Predict and Control the Movements of World Leaders
 
 ## Introduction
 
